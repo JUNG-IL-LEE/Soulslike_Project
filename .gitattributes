@@ -1,4 +1,2 @@
 Soulslike/Content/FantasyDungeon/Maps/Overview.umap filter=lfs diff=lfs merge=lfs -text
 Soulslike/Content/FantasyDungeon/Textures/Wall/brick1_N.uasset filter=lfs diff=lfs merge=lfs -text
-Soulslike/Content/Weapon_Pack/Textures/HDRI/HDRI_Epic_Courtyard_Daylight.uasset filter=lfs diff=lfs merge=lfs -text
-Soulslike/Content/Weapon_Pack/Map/Weapons_Kit_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
